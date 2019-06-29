@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 5% auto;
+    max-width: 600px;
+}
+
+.hidden {
+    display: none;
+}
+
+ul {
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+li {
+    padding: 10px;
+}
